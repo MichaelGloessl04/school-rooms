@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/MichaelGloessl04/school-rooms-gui
+[submodule "backend"]
+	path = backend
+	url = https://github.com/MichaelGloessl04/school-rooms-api
